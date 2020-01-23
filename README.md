@@ -113,7 +113,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [https://en.hackndo.com/pass-the-hash/](https://en.hackndo.com/pass-the-hash/) - Pass The Hash Technique
 - [https://en.hackndo.com/remote-lsass-dump-passwords/](https://en.hackndo.com/remote-lsass-dump-passwords/) - Extract credentials from lsass remotely
-- [https://github.com/Hackndo/lsassy](https://github.com/Hackndo/lsassy) - lassy (Tool to extract credentials from lsass remotely)
+- [https://github.com/Hackndo/lsassy](https://github.com/Hackndo/lsassy) - lsassy (Tool to extract credentials from lsass remotely)
 - [https://en.hackndo.com/bloodhound/](https://en.hackndo.com/bloodhound/) - Introduction to BloodHound
 - [https://en.hackndo.com/kerberos/](https://en.hackndo.com/kerberos/) - Introduction to Kerberos
 - [https://malicious.link/post/2016/kerberoast-pt1/](https://malicious.link/post/2016/kerberoast-pt1/) - Kerberoasting (Part1)
