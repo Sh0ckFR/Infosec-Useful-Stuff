@@ -4,7 +4,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 
 # Menu
 
-- ["https://github.com/Sh0ckFR/Infosec-Useful-Stuff#reverse-engineering"](Reverse Engineering)
+- [Reverse Engineering](#reverse-engineering)
 - [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#open-source-intelligence](Open Source Intelligence)
 - [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#pentesting](Pentesting)
 - [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#social-engineering--phishing--vishing](Social Engineering / Phishing / Vishing)
