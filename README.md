@@ -2,6 +2,18 @@
 
 This repository is my own list of tools / useful stuff for pentest and defensive activities (all resources are in English only)
 
+# Menu
+
+- [#reverse-engineering](Reverse Engineering)
+- [#open-source-intelligence](Open Source Intelligence)
+- [#pentesting](Pentesting)
+- [#forensics--incident-response](Forensics / Incident Response)
+- [#cryptography](Cryptography)
+- [#80211-wifi-bluetooth-ble-zigbee--iot--lorawan--gsm--rf](802.11, Wifi, Bluetooth, BLE, ZigBee / IoT / LoraWan / GSM / RF)
+- [#vehicle-security--cars-hacking](Vehicle Security / Cars Hacking)
+- [#hardwarefirmware-security](Hardware/Firmware Security)
+- [#windows-offensive-resources--red-teaming](Windows Offensive Resources / Red-Teaming)
+
 ## Reverse Engineering
 
 ### x86 architecture
