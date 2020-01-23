@@ -74,3 +74,9 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/PreOS-Security/awesome-firmware-security/](https://github.com/PreOS-Security/awesome-firmware-security/) - Awesome resources about firmware security
 - [https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf) - Semi-invasive attacks, a new approach to hardware security analysis
 - [https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf](https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf) - A complete whitepaper about the hardware security analysis
+
+## Windows Active Directory / Powershell
+
+- [https://github.com/specterops/at-ps](https://github.com/specterops/at-ps) - Adversary Tactics - PowerShell Training
+- [https://github.com/BloodHoundAD/SharpHound](https://github.com/BloodHoundAD/SharpHound) - The BloodHound C# Ingestor
+- [https://github.com/BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment
