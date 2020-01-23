@@ -15,7 +15,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [Hardware/Firmware Security](#hardwarefirmware-security)
 - [Windows Offensive Resources / Red-Teaming](#windows-offensive-resources--red-teaming)
 
-## Reverse Engineering
+## Reverse Engineering - [Back To Menu](#menu)
 
 ### x86 architecture
 
@@ -51,14 +51,14 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/Sh0ckFR/Universal-ImGui-D3D11-Hook](https://github.com/Sh0ckFR/Universal-ImGui-D3D11-Hook) - Universal Directx11 D3D11 Hook Project for all directx11 - 10 applications with ImGui and InputHook included, fullscreen supported
 - [https://github.com/Rebzzel/kiero](https://github.com/Rebzzel/kiero) - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulcan based games.
 
-## Open Source Intelligence
+## Open Source Intelligence - [Back To Menu](#menu)
 
 - [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - Awesome resources about OSINT
 - [https://darksearch.io/](https://darksearch.io/) - Dark Web search engine (Tor not needed)
 - [https://www.bellingcat.com/](https://www.bellingcat.com/) - Investigative journalism website
 - [https://github.com/eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Find GitHub secrets in real time
 
-## Pentesting
+## Pentesting - [Back To Menu](#menu)
 
 ### Web Security
 
@@ -69,37 +69,37 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 
 - [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - Awesome resources (generic)
 
-## Social Engineering / Phishing / Vishing
+## Social Engineering / Phishing / Vishing - [Back To Menu](#menu)
 
 - [https://github.com/v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - Awesome resources about Social Engineering
 - [https://github.com/gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit in GoLang
 
-## Forensics / Incident Response
+## Forensics / Incident Response - [Back To Menu](#menu)
 
 - [https://github.com/cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - Awesome resources about forensics
 - [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - Awesome resources about Incident Response
 
-## Cryptography
+## Cryptography - [Back To Menu](#menu)
 
 - [https://github.com/sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome resources about cryptography
 
-## 802.11, Wifi, Bluetooth, BLE, ZigBee / IoT / LoraWan / GSM / RF
+## 802.11, Wifi, Bluetooth, BLE, ZigBee / IoT / LoraWan / GSM / RF - [Back To Menu](#menu)
 
 - [https://github.com/nebgnahz/awesome-iot-hacks/](https://github.com/nebgnahz/awesome-iot-hacks/) - Awesome resources about IoT hacks
 - [https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/](https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/) - Practical Guide to Bluetooth Low Energy Hacking
 - [https://github.com/cn0xroot/RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) - RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools
 
-## Vehicle Security / Cars Hacking
+## Vehicle Security / Cars Hacking - [Back To Menu](#menu)
 
 - [https://github.com/jaredthecoder/awesome-vehicle-security/](https://github.com/jaredthecoder/awesome-vehicle-security/) - A curated list of resources for learning about vehicle security and car hacking
 
-## Hardware/Firmware Security
+## Hardware/Firmware Security - [Back To Menu](#menu)
 
 - [https://github.com/PreOS-Security/awesome-firmware-security/](https://github.com/PreOS-Security/awesome-firmware-security/) - Awesome resources about firmware security
 - [https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf) - Semi-invasive attacks, a new approach to hardware security analysis
 - [https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf](https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf) - A complete whitepaper about the hardware security analysis
 
-## Windows Offensive Resources / Red-Teaming
+## Windows Offensive Resources / Red-Teaming - [Back To Menu](#menu)
 
 - [https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - Awesome resources about Red-Teaming
 - [https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - Red-Teaming Toolkit
