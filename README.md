@@ -86,8 +86,11 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf) - Semi-invasive attacks, a new approach to hardware security analysis
 - [https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf](https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf) - A complete whitepaper about the hardware security analysis
 
-## Windows Offensive Resources
+## Windows Offensive Resources / Red-Teaming
 
+- [https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - Awesome resources about Red-Teaming
+- [https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - Red-Teaming Toolkit
+- [https://github.com/marcosValle/awesome-windows-red-team](https://github.com/marcosValle/awesome-windows-red-team) - Awesome resources about Red-Teaming
 - [https://github.com/specterops/at-ps](https://github.com/specterops/at-ps) - Adversary Tactics - PowerShell Training
 - [https://github.com/BloodHoundAD/SharpHound](https://github.com/BloodHoundAD/SharpHound) - The BloodHound C# Ingestor
 - [https://github.com/BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment
