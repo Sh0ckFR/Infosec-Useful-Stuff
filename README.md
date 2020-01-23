@@ -105,6 +105,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://malicious.link/post/2016/kerberoast-pt1/](https://malicious.link/post/2016/kerberoast-pt1/) - Kerberoasting (Part1)
 - [https://malicious.link/post/2016/kerberoast-pt2/](https://malicious.link/post/2016/kerberoast-pt2/) - Kerberoasting (Part2)
 - [https://malicious.link/post/2016/kerberoast-pt3/](https://malicious.link/post/2016/kerberoast-pt3/) - Kerberoasting (Part3)
+- [https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/) - Red Team Tactics: Combining Direct System Calls and sRDI to bypass AV/EDR
 
 ## License
 
