@@ -32,6 +32,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - Awesome resources about OSINT
 - [https://darksearch.io/](https://darksearch.io/) - Dark Web search engine (Tor not needed)
 - [https://www.bellingcat.com/](https://www.bellingcat.com/) - Investigative journalism website
+- [https://github.com/eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Find GitHub secrets in real time
 
 ## Pentesting
 
