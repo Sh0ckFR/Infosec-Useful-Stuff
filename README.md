@@ -5,15 +5,15 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 # Menu
 
 - [Reverse Engineering](#reverse-engineering)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#open-source-intelligence](Open Source Intelligence)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#pentesting](Pentesting)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#social-engineering--phishing--vishing](Social Engineering / Phishing / Vishing)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#forensics--incident-response](Forensics / Incident Response)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#cryptography](Cryptography)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#80211-wifi-bluetooth-ble-zigbee--iot--lorawan--gsm--rf](802.11, Wifi, Bluetooth, BLE, ZigBee / IoT / LoraWan / GSM / RF)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#vehicle-security--cars-hacking](Vehicle Security / Cars Hacking)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#hardwarefirmware-security](Hardware/Firmware Security)
-- [https://github.com/Sh0ckFR/Infosec-Useful-Stuff#windows-offensive-resources--red-teaming](Windows Offensive Resources / Red-Teaming)
+- [Open Source Intelligence](#open-source-intelligence)
+- [Pentesting](#pentesting)
+- [Social Engineering / Phishing / Vishing](#social-engineering--phishing--vishing)
+- [Forensics / Incident Response](#forensics--incident-response)
+- [Cryptography](#cryptography)
+- [802.11, Wifi, Bluetooth, BLE, ZigBee / IoT / LoraWan / GSM / RF](#80211-wifi-bluetooth-ble-zigbee--iot--lorawan--gsm--rf)
+- [Vehicle Security / Cars Hacking](#vehicle-security--cars-hacking)
+- [Hardware/Firmware Security](#hardwarefirmware-security)
+- [Windows Offensive Resources / Red-Teaming](#windows-offensive-resources--red-teaming)
 
 ## Reverse Engineering
 
