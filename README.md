@@ -105,3 +105,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://malicious.link/post/2016/kerberoast-pt1/](https://malicious.link/post/2016/kerberoast-pt1/) - Kerberoasting (Part1)
 - [https://malicious.link/post/2016/kerberoast-pt2/](https://malicious.link/post/2016/kerberoast-pt2/) - Kerberoasting (Part2)
 - [https://malicious.link/post/2016/kerberoast-pt3/](https://malicious.link/post/2016/kerberoast-pt3/) - Kerberoasting (Part3)
+
+## License
+
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
