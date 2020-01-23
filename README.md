@@ -44,6 +44,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 
 - [https://github.com/TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [https://github.com/stevemk14ebr/PolyHook](https://github.com/stevemk14ebr/PolyHook) - x86/x64 C++ Hooking Library
+- [https://www.unknowncheats.me/forum/general-programming-and-reversing/154643-different-ways-hooking.html](https://www.unknowncheats.me/forum/general-programming-and-reversing/154643-different-ways-hooking.html) - The different ways of hooking
 
 ### DirectX / OpenGL / Vulkan Hooks
 
