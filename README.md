@@ -27,6 +27,17 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/erfg12/memory.dll/wiki/Make-a-Named-Pipe-DLL-(Cplusplus)](https://github.com/erfg12/memory.dll/wiki/Make-a-Named-Pipe-DLL-(Cplusplus)) - Make a Named Pipe DLL (Cplusplus)
 - [https://github.com/erfg12/memory.dll/wiki/Using-Named-Pipes](https://github.com/erfg12/memory.dll/wiki/Using-Named-Pipes) - Using Named Pipes (C# communication with your C++ Named Pipe)
 
+### Hooking Libraries / Resources
+
+- [https://github.com/TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
+- [https://github.com/stevemk14ebr/PolyHook](https://github.com/stevemk14ebr/PolyHook) - x86/x64 C++ Hooking Library
+
+### DirectX / OpenGL / Vulkan Hooks
+
+- [https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook) - An universal Dear ImGui Hook for Directx12 D3D12 (D3D11, D3D10 and maybe Vulkan will be added later)
+- [https://github.com/Sh0ckFR/Universal-ImGui-D3D11-Hook](https://github.com/Sh0ckFR/Universal-ImGui-D3D11-Hook) - Universal Directx11 D3D11 Hook Project for all directx11 - 10 applications with ImGui and InputHook included, fullscreen supported
+- [https://github.com/Rebzzel/kiero](https://github.com/Rebzzel/kiero) - Universal graphical hook for a D3D9-D3D12, OpenGL and Vulcan based games.
+
 ## Open Source Intelligence
 
 - [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - Awesome resources about OSINT
