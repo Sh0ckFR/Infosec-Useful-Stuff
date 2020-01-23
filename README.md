@@ -67,3 +67,9 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 ## Vehicle Security / Cars Hacking
 
 - [https://github.com/jaredthecoder/awesome-vehicle-security/](https://github.com/jaredthecoder/awesome-vehicle-security/) - A curated list of resources for learning about vehicle security and car hacking
+
+## Hardware/Firmware Security
+
+- [https://github.com/PreOS-Security/awesome-firmware-security/](https://github.com/PreOS-Security/awesome-firmware-security/) - Awesome resources about firmware security
+- [https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf) - Semi-invasive attacks, a new approach to hardware security analysis
+- [https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf](https://www.kth.se/social/files/59102ef5f276540f03507109/hardware_security__2017_05_08.pdf) - A complete whitepaper about the hardware security analysis
