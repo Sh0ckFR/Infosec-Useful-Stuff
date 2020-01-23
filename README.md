@@ -1,4 +1,4 @@
-# Infosec-Useful-Stuff
+# Infosec Useful Stuff
 
 This repository is my own list of tools / useful stuff for pentest and defensive activities (all resources are in English only)
 
@@ -32,3 +32,38 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - Awesome resources about OSINT
 - [https://darksearch.io/](https://darksearch.io/) - Dark Web search engine (Tor not needed)
 - [https://www.bellingcat.com/](https://www.bellingcat.com/) - Investigative journalism website
+
+## Pentesting
+
+### Web Security
+
+- [https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - Awesome resources about web security
+- [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - Awesome resources about web security
+
+### Generic stuff
+
+- [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - Awesome resources (generic)
+
+## Social Engineering / Phishing / Vishing
+
+- [https://github.com/v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - Awesome resources about Social Engineering
+- [https://github.com/gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit in GoLang
+
+## Forensics / Incident Response
+
+- [https://github.com/cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - Awesome resources about forensics
+- [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - Awesome resources about Incident Response
+
+## Cryptography
+
+- [https://github.com/sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome resources about cryptography
+
+## 802.11, Wifi, Bluetooth, BLE, ZigBee / IoT / LoraWan / GSM / RF
+
+- [https://github.com/nebgnahz/awesome-iot-hacks/](https://github.com/nebgnahz/awesome-iot-hacks/) - Awesome resources about IoT hacks
+- [https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/](https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/) - Practical Guide to Bluetooth Low Energy Hacking
+- [https://github.com/cn0xroot/RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) - RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools
+
+## Vehicle Security / Cars Hacking
+
+- [https://github.com/jaredthecoder/awesome-vehicle-security/](https://github.com/jaredthecoder/awesome-vehicle-security/) - A curated list of resources for learning about vehicle security and car hacking
