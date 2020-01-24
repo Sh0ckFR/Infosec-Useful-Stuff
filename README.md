@@ -70,6 +70,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 ### Generic stuff
 
 - [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - Awesome resources (generic)
+- [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## Social Engineering / Phishing / Vishing - [Back To Menu](#menu)
 
