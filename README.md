@@ -39,6 +39,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://codingvision.net/tips-and-tricks/calling-a-c-method-from-c-c-native-process](https://codingvision.net/tips-and-tricks/calling-a-c-method-from-c-c-native-process) - Call a C# Method from C/C++ (native process)
 - [https://github.com/erfg12/memory.dll/wiki/Make-a-Named-Pipe-DLL-(Cplusplus)](https://github.com/erfg12/memory.dll/wiki/Make-a-Named-Pipe-DLL-(Cplusplus)) - Make a Named Pipe DLL (Cplusplus)
 - [https://github.com/erfg12/memory.dll/wiki/Using-Named-Pipes](https://github.com/erfg12/memory.dll/wiki/Using-Named-Pipes) - Using Named Pipes (C# communication with your C++ Named Pipe)
+- [https://silentbreaksecurity.com/srdi-shellcode-reflective-dll-injection/](https://silentbreaksecurity.com/srdi-shellcode-reflective-dll-injection/) - sRDI – Shellcode Reflective DLL Injection
 
 ### Hooking Libraries / Resources
 
