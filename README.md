@@ -40,6 +40,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/erfg12/memory.dll/wiki/Make-a-Named-Pipe-DLL-(Cplusplus)](https://github.com/erfg12/memory.dll/wiki/Make-a-Named-Pipe-DLL-(Cplusplus)) - Make a Named Pipe DLL (Cplusplus)
 - [https://github.com/erfg12/memory.dll/wiki/Using-Named-Pipes](https://github.com/erfg12/memory.dll/wiki/Using-Named-Pipes) - Using Named Pipes (C# communication with your C++ Named Pipe)
 - [https://silentbreaksecurity.com/srdi-shellcode-reflective-dll-injection/](https://silentbreaksecurity.com/srdi-shellcode-reflective-dll-injection/) - sRDI – Shellcode Reflective DLL Injection
+- [https://github.com/danielkrupinski/MemJect](https://github.com/danielkrupinski/MemJect) - Simple Dll injector loading from memory. Supports PE header and entry point erasure. Written in C99.
 
 ### Hooking Libraries / Resources
 
