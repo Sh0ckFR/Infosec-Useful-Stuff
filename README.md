@@ -82,6 +82,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 
 - [https://github.com/cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - Awesome resources about forensics
 - [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - Awesome resources about Incident Response
+- [https://medium.com/maverislabs/virustotal-is-not-an-incident-responder-80a6bb687eb9](https://medium.com/maverislabs/virustotal-is-not-an-incident-responder-80a6bb687eb9) - VirusTotal is not an Incident Responder (How attackers can manipulate VirusTotal’s URL link scanning to provide clean response)
 
 ## Cryptography - [Back To Menu](#menu)
 
