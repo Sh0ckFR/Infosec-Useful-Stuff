@@ -121,6 +121,7 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://malicious.link/post/2016/kerberoast-pt3/](https://malicious.link/post/2016/kerberoast-pt3/) - Kerberoasting (Part3)
 - [https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/) - Red Team Tactics: Combining Direct System Calls and sRDI to bypass AV/EDR (LSASS dump with dumpert)
 - [https://github.com/AonCyberLabs/Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
+- [https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/](https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/) - Persistence can be achieved with Appx/UWP apps using the debugger options (Cortana/People App)
 
 ## License
 
