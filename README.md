@@ -124,6 +124,10 @@ This repository is my own list of tools / useful stuff for pentest and defensive
 - [https://github.com/AonCyberLabs/Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
 - [https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/](https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/) - Persistence can be achieved with Appx/UWP apps using the debugger options (Cortana/People App)
 
+## Exploits PoC
+
+- [https://github.com/ollypwn/BlueGate](https://github.com/ollypwn/BlueGate) - BlueGate - Proof of Concept (Denial of Service) for CVE-2020-0609 and CVE-2020-0610. These vulnerabilities allows an unauthenticated attacker to gain remote code execution with highest privileges via RD Gateway for RDP.
+
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
