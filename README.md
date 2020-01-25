@@ -100,7 +100,7 @@ If you want to add something you can ask a pull request or send me the link on [
 
 - [https://github.com/jaredthecoder/awesome-vehicle-security/](https://github.com/jaredthecoder/awesome-vehicle-security/) - A curated list of resources for learning about vehicle security and car hacking
 
-## Hardware/Firmware Security - [Back To Menu](#menu)
+## Hardware / Firmware Security - [Back To Menu](#menu)
 
 - [https://github.com/PreOS-Security/awesome-firmware-security/](https://github.com/PreOS-Security/awesome-firmware-security/) - Awesome resources about firmware security
 - [https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf) - Semi-invasive attacks, a new approach to hardware security analysis
