@@ -36,6 +36,7 @@ If you want to add something you can ask a pull request or send me the link on [
 
 - [https://github.com/wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - Awesome resources about Reverse Engineering
 - [https://github.com/DarthTon/Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library (x86 and x64 support)
+- [https://github.com/longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 
 ### DLL Injections Tricks
 
