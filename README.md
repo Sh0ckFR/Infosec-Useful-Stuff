@@ -130,6 +130,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/](https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/) - Persistence can be achieved with Appx/UWP apps using the debugger options (Cortana/People App)
 - [https://github.com/ollypwn/BlueGate](https://github.com/ollypwn/BlueGate) - BlueGate - Proof of Concept (Denial of Service) for CVE-2020-0609 and CVE-2020-0610. These vulnerabilities allows an unauthenticated attacker to gain remote code execution with highest privileges via RD Gateway for RDP.
 - [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md) - Active Directory Common Attacks
+- [https://github.com/BankSecurity/Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities 
 
 ## License
 
