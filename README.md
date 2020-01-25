@@ -17,7 +17,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [Hardware / Firmware Security](#hardware--firmware-security---back-to-menu)
 - [Windows Offensive Resources / Red-Teaming](#windows-offensive-resources--red-teaming---back-to-menu)
 
-## Reverse Engineering - [Back To Menu](#menu)
+## Reverse Engineering / Pown - [Back To Menu](#menu)
 
 ### x86 architecture
 
@@ -37,6 +37,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - Awesome resources about Reverse Engineering
 - [https://github.com/DarthTon/Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library (x86 and x64 support)
 - [https://github.com/longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
+- [https://github.com/JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
 
 ### DLL Injections Tricks
 
