@@ -135,7 +135,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md) - Active Directory Common Attacks
 - [https://github.com/BankSecurity/Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities
 - [https://adsecurity.org/?page_id=4031](https://adsecurity.org/?page_id=4031) - Active Directory Attack Defense & Detection
-- [https://github.com/samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
+- [https://github.com/samratashok/nishang](https://github.com/samratashok/nishang) - Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing.
 
 ## License
 
