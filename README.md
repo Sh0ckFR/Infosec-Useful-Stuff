@@ -139,6 +139,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://adsecurity.org/?page_id=4031](https://adsecurity.org/?page_id=4031) - Active Directory Attack Defense & Detection
 - [https://github.com/samratashok/nishang](https://github.com/samratashok/nishang) - Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing.
 - [https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common and known techniques to bypass AppLocker.
+- [https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools.
 
 ## License
 
