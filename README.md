@@ -142,6 +142,13 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common and known techniques to bypass AppLocker.
 - [https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools.
 
+## Programming - [Back To Menu](#menu)
+
+### Virtual Reality (VR)
+
+- [https://developer.oculus.com/documentation/unity/unity-tutorial/](https://developer.oculus.com/documentation/unity/unity-tutorial/) - Build Your First VR App
+- [https://github.com/mnrmja007/awesome-virtual-reality](https://github.com/mnrmja007/awesome-virtual-reality) - A curated list of VR resources
+
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
