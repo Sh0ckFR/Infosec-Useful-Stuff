@@ -1,6 +1,6 @@
 # Infosec Useful Stuff
 
-This repository is my own list of tools / useful stuff for pentest and defensive activities (all resources are in English only)
+This repository is my own list of tools / useful stuff for pentest, defensive activities, programming, lockpicking and physical security (all resources are in English only)
 
 If you want to add something you can ask a pull request or send me the link on [@Sh0ckFR](https://twitter.com/Sh0ckFR) ;)
 
