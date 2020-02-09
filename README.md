@@ -147,6 +147,7 @@ If you want to add something you can ask a pull request or send me the link on [
 ## Lockpicking / Physical Security - [Back To Menu](#menu)
 
 - [https://github.com/meitar/awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) - A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+- [https://tihk.co/blogs/news/getting-started-lockpicking-with-these-resources](https://tihk.co/blogs/news/getting-started-lockpicking-with-these-resources) - 20 Awesome Lockpicking Resources for Beginners
 - [https://www.youtube.com/watch?v=P4HIDJ-5lJo](https://www.youtube.com/watch?v=P4HIDJ-5lJo) - Physical Penetration Testing (SHA2017)
 
 ## Programming - [Back To Menu](#menu)
