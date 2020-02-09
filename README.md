@@ -143,6 +143,11 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common and known techniques to bypass AppLocker.
 - [https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools.
 
+## Lockpicking / Physical Security - [Back To Menu](#menu)
+
+- [https://github.com/meitar/awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) - A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
+- [https://www.youtube.com/watch?v=P4HIDJ-5lJo](https://www.youtube.com/watch?v=P4HIDJ-5lJo) - Physical Penetration Testing (SHA2017)
+
 ## Programming - [Back To Menu](#menu)
 
 ### Virtual Reality (VR)
