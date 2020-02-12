@@ -16,6 +16,8 @@ If you want to add something you can ask a pull request or send me the link on [
 - [Vehicle Security / Cars Hacking](#vehicle-security--cars-hacking---back-to-menu)
 - [Hardware / Firmware Security](#hardware--firmware-security---back-to-menu)
 - [Windows Offensive Resources / Red-Teaming](#windows-offensive-resources--red-teaming---back-to-menu)
+- [Mobile Hacking](#mobile-hacking---back-to-menu)
+- [Threat Intelligence / Malwares Analysis](#threat-intelligence--malwares-analysis---back-to-menu)
 - [Lockpicking - Physical Security](#lockpicking--physical-security---back-to-menu)
 - [Programming](#programming---back-to-menu)
 
