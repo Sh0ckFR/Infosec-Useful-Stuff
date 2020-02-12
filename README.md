@@ -144,6 +144,21 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common and known techniques to bypass AppLocker.
 - [https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools.
 
+## Mobile Hacking - [Back To Menu](#menu)
+
+### Android
+
+- [https://github.com/randorisec/MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - The Mobile Hacking CheatSheet is an attempt to summarise a few interesting basics info regarding tools and commands needed to assess the security of Android and iOS mobile applications.
+
+## Threat Intelligence / Malwares Analysis - [Back To Menu](#menu)
+
+- [https://github.com/hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of awesome Threat Intelligence resources
+- [https://otx.alienvault.com/](https://otx.alienvault.com/) - The World’s First Truly Open Threat Intelligence Community
+- [https://www.threatcrowd.org/](https://www.threatcrowd.org/) - A Search Engine for Threats
+- [https://www.virustotal.com/gui/home/search](https://www.virustotal.com/gui/home/search) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
+- [https://community.riskiq.com/](https://community.riskiq.com/) - RiskIQ Community brings petabytes of internet intelligence directly to your fingertips. Investigate threats by pivoting through attacker infrastructure data.
+- [https://attack.mitre.org/](https://attack.mitre.org/) - MITRE ATT&CK™ is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
+
 ## Lockpicking / Physical Security - [Back To Menu](#menu)
 
 - [https://github.com/meitar/awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) - A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
