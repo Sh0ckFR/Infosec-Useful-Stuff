@@ -83,6 +83,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery https://owasp.org/www-project-amass/
+- [https://pentester.land/tutorials/2018/10/25/source-code-disclosure-via-exposed-git-folder.html](https://pentester.land/tutorials/2018/10/25/source-code-disclosure-via-exposed-git-folder.html) - Source code disclosure via exposed .git folder
 
 ### Generic stuff
 
