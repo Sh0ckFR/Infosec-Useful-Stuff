@@ -42,6 +42,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/DarthTon/Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library (x86 and x64 support)
 - [https://github.com/longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 - [https://github.com/JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
+- [https://wiremask.eu/articles/hooking-firefox-with-frida/](https://wiremask.eu/articles/hooking-firefox-with-frida/) - Hooking Firefox with Frida
 
 ### DLL Injections Tricks
 
@@ -153,7 +154,9 @@ If you want to add something you can ask a pull request or send me the link on [
 
 ### Android
 
+- [http://ilkinulas.github.io/android/2016/06/13/reverse-engineering-apk-files.html](http://ilkinulas.github.io/android/2016/06/13/reverse-engineering-apk-files.html) - Reverse Engineering Apk Files
 - [https://github.com/randorisec/MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - The Mobile Hacking CheatSheet is an attempt to summarise a few interesting basics info regarding tools and commands needed to assess the security of Android and iOS mobile applications.
+- [https://medium.com/@mantissts/hacking-with-frida-fridalab-1-a2b4d227c1e8](https://medium.com/@mantissts/hacking-with-frida-fridalab-1-a2b4d227c1e8) - Hacking With Frida — FridaLab #1
 
 ## Threat Intelligence / Malwares Analysis - [Back To Menu](#menu)
 
