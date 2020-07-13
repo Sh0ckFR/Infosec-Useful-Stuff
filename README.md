@@ -71,6 +71,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://www.bellingcat.com/](https://www.bellingcat.com/) - Investigative journalism website
 - [https://github.com/eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Find GitHub secrets in real time
 - [https://github.com/twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## Pentesting - [Back To Menu](#menu)
 
