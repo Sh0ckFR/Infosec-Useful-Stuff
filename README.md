@@ -43,6 +43,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 - [https://github.com/JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
 - [https://wiremask.eu/articles/hooking-firefox-with-frida/](https://wiremask.eu/articles/hooking-firefox-with-frida/) - Hooking Firefox with Frida
+- [https://github.com/namazso/physmem_drivers](https://github.com/namazso/physmem_drivers) - This repo is a collection of various vulnerable (mostly physical memory exposing) drivers. No more deeper analysis was done on them, so some might not work. Also, there is no PoC available. So for short, if you want to use any of these, reverse them yourself to figure out how to use.
 
 ### DLL Injections Tricks
 
