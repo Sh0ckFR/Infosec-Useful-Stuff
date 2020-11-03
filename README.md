@@ -101,6 +101,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/cugu/awesome-forensics](https://github.com/cugu/awesome-forensics) - Awesome resources about forensics
 - [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - Awesome resources about Incident Response
 - [https://medium.com/maverislabs/virustotal-is-not-an-incident-responder-80a6bb687eb9](https://medium.com/maverislabs/virustotal-is-not-an-incident-responder-80a6bb687eb9) - VirusTotal is not an Incident Responder (How attackers can manipulate VirusTotal’s URL link scanning to provide clean response)
+- [https://www.comae.com/dumpit/](https://www.comae.com/dumpit/) - DumpIt provides a convenient way of obtaining a memory image of a Windows system even if the analyst is not physically sitting in front of the target computer.
 - [https://github.com/orlikoski/CyLR](https://github.com/orlikoski/CyLR) - CyLR - Live Response Collection Tool
 - [https://github.com/log2timeline/plaso/tree/master/tools](https://github.com/log2timeline/plaso/tree/master/tools) - Super timeline all the things Tools (psteal)
 - [https://github.com/google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
