@@ -16,6 +16,7 @@ If you want to add something you can ask a pull request or send me the link on [
 - [Vehicle Security / Cars Hacking](#vehicle-security--cars-hacking---back-to-menu)
 - [Hardware / Firmware Security](#hardware--firmware-security---back-to-menu)
 - [Windows Offensive Resources / Red-Teaming](#windows-offensive-resources--red-teaming---back-to-menu)
+- [Defensive Resources / Blue-Teaming()
 - [Mobile Hacking](#mobile-hacking---back-to-menu)
 - [Threat Intelligence / Malwares Analysis](#threat-intelligence--malwares-analysis---back-to-menu)
 - [Lockpicking - Physical Security](#lockpicking--physical-security---back-to-menu)
@@ -157,6 +158,10 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/samratashok/nishang](https://github.com/samratashok/nishang) - Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing.
 - [https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) - The goal of this repository is to document the most common and known techniques to bypass AppLocker.
 - [https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools.
+
+## Defensive Resources / Blue-Teaming - [Back To Menu](#menu)
+
+- [https://medium.com/bugbountywriteup/building-a-siem-combining-elk-wazuh-hids-and-elastalert-for-optimal-performance-f1706c2b73c6](https://medium.com/bugbountywriteup/building-a-siem-combining-elk-wazuh-hids-and-elastalert-for-optimal-performance-f1706c2b73c6) - Building an open-source SIEM: combining ELK, Wazuh HIDS and Elastalert for optimal performance
 
 ## Mobile Hacking - [Back To Menu](#menu)
 
