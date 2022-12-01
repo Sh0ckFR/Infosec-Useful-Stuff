@@ -174,6 +174,8 @@ If you want to add something you can ask a pull request or send me the link on [
 - [https://github.com/boku7/azureOutlookC2](https://github.com/boku7/azureOutlookC2) - Azure Outlook Command &amp; Control. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP = Abuse Microsoft Graph API for C2 Operations.
 - [https://github.com/bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments.
 - [https://github.com/EspressoCake/Self_Deletion_BOF](https://github.com/EspressoCake/Self_Deletion_BOF) - Having an obfuscated artifact from Cobalt Strike is nice in that you've successfully evaded detection, but wouldn't it be nice to have it deleted and still running? All credits included in the repository, as they should!
+- [https://github.com/blackarrowsec/pivotnacci](A tool to make socks connections through HTTP agents)
+- [https://github.com/epinna/weevely3](Weevely - Weaponized web shell - socks connections through PHP)
 
 ## Defensive Resources / Blue-Teaming - [Back To Menu](#menu)
 
