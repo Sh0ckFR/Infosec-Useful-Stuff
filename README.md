@@ -81,6 +81,7 @@ If you want to add something you can ask a pull request or send me the link on [
 
 - [https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - Awesome resources about web security
 - [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - Awesome resources about web security
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [https://github.com/snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
 - [https://github.com/alphaSeclab/awesome-burp-suite](https://github.com/alphaSeclab/awesome-burp-suite) - Awesome Burp Suite Resources. 400+ open source Burp plugins, 500+ posts and videos.
 - [https://github.com/wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
